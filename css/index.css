@@ -13,7 +13,7 @@ html, body {
 }
 
 .container {
-    margin-top: -5%;
+    margin-top: -9%;
 }
 
 body {
@@ -36,6 +36,11 @@ body {
 .title {
     text-align: center;
     font-size: 120px;
+    margin-bottom: 60px;
+}
+
+.title img{
+    width: 130px;
 }
 
 .subtitle {
